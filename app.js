@@ -10,7 +10,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-    exibirTextoNaTela('h1', 'Jogo da Cecília Fragas');
+    exibirTextoNaTela('h1', 'Jogo da Cecê Fragas');
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 70');
 }
 
